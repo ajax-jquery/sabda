@@ -72,6 +72,7 @@ group :jekyll_optional_dependencies do
   gem "jekyll-gist"
   gem "jekyll-paginate"
   gem "jekyll-redirect-from"
+  gem 'jekyll-money2', '~> 0.3'
   gem "kramdown-syntax-coderay"
   gem "matrix"
   gem "mime-types", "~> 3.0"
