@@ -50,6 +50,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji
+- jekyll-money2
 feed:
   categories:
   - release
